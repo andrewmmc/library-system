@@ -1,0 +1,264 @@
+﻿/* Page Layout */
+body {
+    color: #4c4c4c;
+    background-color: #e6e6e6;
+    font-family: 'Verdana';
+    font-size: 12px !important;
+}
+
+span {
+    font-size: 12px !important;
+}
+
+div.pageborder {
+    margin: 10px;
+}
+
+div.header {
+    background-color: #FFF;
+    width: 100%;
+    height: 100px;
+}
+
+div.footer {
+    background-color: #FFF;
+    width: 100%;
+    /*height:	50px;*/
+    text-align: center;
+}
+
+div.users {
+    color: #FFF;
+    background-color: #9d1a20;
+    width: 100%;
+    height: 40px;
+    text-align: right;
+}
+
+div.users a, div.users a:hover, div.users a:visited {
+    color: #FFF;
+    text-decoration: none;
+}
+
+div.pad {
+    padding: 10px;
+}
+
+td.conpage {
+    background-color: #FFFFFF;
+    vertical-align: top;
+    padding: 15px;
+}
+
+/* Font Size Settings */
+
+h2 {
+    font-weight: normal;
+    font-size: 22px;
+    color: #9d1a20;
+    margin: 2px;
+    padding: 0px;
+}
+
+span {
+    font-size: 14px;
+}
+
+/* Nav Bar Settings */
+ul.navbar {
+    list-style-type: none;
+    padding-top: 8px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+    ul.navbar li {
+        padding: 0.3em;
+    }
+
+/* Link Settings */
+a {
+    text-decoration: none;
+}
+
+    a:link {
+        color: #4c4c4c;
+    }
+
+    a:visited {
+        color: #4c4c4c;
+    }
+
+    a:hover {
+        color: #9d1a20;
+    }
+
+/* Table Style Settings */
+
+#ContentPlaceHolder1_FormView1 {
+    width: 50%;
+}
+
+.InsertTable {
+    border-width: 1px;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 0px !important;
+    border-color: #D9D7D7;
+    width: 100%;
+}
+
+    .InsertTable td {
+        border-width: 1px;
+        border-left: 0px !important;
+        border-right: 0px !important;
+        border-top: 0px !important;
+        border-style: dashed;
+        vertical-align: middle;
+        padding: 8px;
+        font-size: 12px;
+        border-color: #D9D7D7;
+    }
+
+    .InsertTable th {
+        border-width: 1px;
+        border-left: 0px !important;
+        border-right: 0px !important;
+        border-top: 0px !important;
+        border-style: dashed;
+        color: #9d1a20;
+        font-size: 14px;
+        text-align: left;
+        border-color: #D9D7D7;
+        padding: 8px;
+    }
+
+a#ContentPlaceHolder1_FormView1_InsertButton, input#ContentPlaceHolder1_btnSearch, input#ContentPlaceHolder1_btnClear {
+    font-size: 14px;
+    border: 1px solid #9d1a20;
+    color: #9d1a20;
+    padding: 5px 7px;
+    margin: 2px;
+    background-color: #FFF;
+}
+
+    a#ContentPlaceHolder1_FormView1_InsertButton:hover, input#ContentPlaceHolder1_btnSearch:hover, input#ContentPlaceHolder1_btnClear:hover {
+        background-color: #FFE8E9;
+        color: #C24B51;
+        border: 1px solid #C24B51;
+    }
+
+.myGridStyle {
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 0px !important;
+    border-color: #D9D7D7;
+    border-collapse: separate;
+    width: 80%;
+}
+
+    .myGridStyle tr th {
+        border-left: 0px !important;
+        border-right: 0px !important;
+        border-top: 0px !important;
+        border-style: dashed;
+        color: #9d1a20;
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .myGridStyle tr:nth-child(even) {
+        background-color: #FFFFFF;
+        border-bottom: 1px dashed #D9D7D7;
+    }
+
+    .myGridStyle tr:nth-child(odd) {
+        background-color: #FFFFFF;
+        border-bottom: 1px dashed #D9D7D7;
+    }
+
+    .myGridStyle td {
+        border-top: 0px !important;
+        border-left: 0px !important;
+        border-right: 0px !important;
+        border-style: dashed;
+        vertical-align: middle;
+        padding: 8px;
+        font-size: 12px;
+    }
+
+.paging a {
+    background-color: #FFF;
+    padding: 5px 7px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: 1px solid #9d1a20;
+    color: #9d1a20;
+}
+
+    .paging a:hover {
+        background-color: #FFE8E9;
+        color: #C24B51;
+        border: 1px solid #C24B51;
+    }
+
+.paging span {
+    background-color: #9d1a20;
+    padding: 5px 7px;
+    margin-right: 5px;
+    color: #FFF;
+    font-size: 14px;
+    border: 1px solid #9d1a20;
+    font-weight: bold;
+}
+
+.browseby a {
+    background-color: #FFF;
+    padding: 5px 7px;
+    text-decoration: none;
+    border: 1px solid #1A599D;
+    color: #1A599D;
+}
+
+    .browseby a:hover {
+        background-color: #E8F5FF;
+        color: #1A599D;
+        border: 1px solid #1A599D;
+    }
+
+.browseby span {
+    background-color: #1A599D;
+    padding: 5px 7px;
+    color: #FFF;
+    font-size: 14px;
+    border: 1px solid #1A599D;
+    font-weight: bold;
+}
+
+tr.paging {
+    background: none !important;
+}
+
+    tr.paging tr {
+        background: none !important;
+    }
+
+    tr.paging td {
+        border: none;
+    }
+
+.hiddencol {
+    display: none;
+}
+
+/* Search Highlight Settings */
+.highlight {
+    text-decoration: none;
+    color: #DD4B39;
+    font-size: 14px;
+    font-weight: bold;
+    background: #F9FF51;
+}

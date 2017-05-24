@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LibMaster.master.cs" Inherits="Librarysystem.LibMaster" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="pageborder">
+            <div class="header">
+                <div class="pad">
+                    <h1>Library System</h1>
+                </div>
+            </div>
+            <div class="users">
+                <div class="pad">
+                
+                            Welcome! 
+                </div>
+            </div>
+            <br />
+
+            <table border="0" width="100%">
+                <tr>
+                    <td width="20%" class="conpage">
+                        <span class="navtext">Navigation Bar</span><br />
+                        <ul class="navbar">
+
+                            <li><span style="font-weight: bold;">Public Section</span>
+                                <li><a href="../public/search.aspx">Book Search</a>
+                                    <li><a href="../public/browse.aspx?browse=book">Book Browse</a><br />
+                                     
+                                        <!--<li><span style="font-weight: bold;">Borrower Section</span>
+                                            <li><a href="../borrower/books.aspx">Borrowed Books</a><br />-->
+                                              
+                                                <li><span style="font-weight: bold;">Admin Section</span>
+                                                    <li><a href="../admin/author.aspx">Author Administration</a>
+                                                        <li><a href="../admin/borrower.aspx">Borrower Administration</a>
+                                                            <li><a href="../admin/book.aspx">Book Administration</a>
+                                                              
+                        </ul>
+                    </td>
+                    <td></td>
+                    <td width="79%" class="conpage">
+
+
+                        <div>
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <div class="footer">
+                <div class="pad">
+                    Web Programming - TPWK14 - A14
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

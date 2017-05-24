@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librarysystem", "Librarysystem\Librarysystem.csproj", "{6F8D0C7B-F5A0-4781-BAAF-4108DE8C35F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryBL", "LibraryBL\LibraryBL.csproj", "{4F06FDDC-7506-4A00-9A06-9779E9F5FE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{EF748BEC-AD1B-40B7-A8E9-1D18D4F6B31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8D0C7B-F5A0-4781-BAAF-4108DE8C35F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8D0C7B-F5A0-4781-BAAF-4108DE8C35F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8D0C7B-F5A0-4781-BAAF-4108DE8C35F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8D0C7B-F5A0-4781-BAAF-4108DE8C35F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F06FDDC-7506-4A00-9A06-9779E9F5FE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F06FDDC-7506-4A00-9A06-9779E9F5FE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F06FDDC-7506-4A00-9A06-9779E9F5FE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F06FDDC-7506-4A00-9A06-9779E9F5FE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF748BEC-AD1B-40B7-A8E9-1D18D4F6B31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF748BEC-AD1B-40B7-A8E9-1D18D4F6B31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF748BEC-AD1B-40B7-A8E9-1D18D4F6B31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF748BEC-AD1B-40B7-A8E9-1D18D4F6B31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

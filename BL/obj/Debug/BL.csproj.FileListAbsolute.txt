@@ -1,0 +1,10 @@
+I:\Web Programming\Project\Librarysystem\BL\bin\Debug\BL.dll
+I:\Web Programming\Project\Librarysystem\BL\bin\Debug\BL.pdb
+I:\Web Programming\Project\Librarysystem\BL\obj\Debug\BL.dll
+I:\Web Programming\Project\Librarysystem\BL\obj\Debug\BL.pdb
+I:\Web Programming\Project\Librarysystem\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+J:\Users\andrewmmc\Google 雲端硬碟\PolyU (School)\201415 Sem 1 (Jonkoping University)\Web Programming\Librarysystem\BL\bin\Debug\BL.dll
+J:\Users\andrewmmc\Google 雲端硬碟\PolyU (School)\201415 Sem 1 (Jonkoping University)\Web Programming\Librarysystem\BL\bin\Debug\BL.pdb
+J:\Users\andrewmmc\Google 雲端硬碟\PolyU (School)\201415 Sem 1 (Jonkoping University)\Web Programming\Librarysystem\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+J:\Users\andrewmmc\Google 雲端硬碟\PolyU (School)\201415 Sem 1 (Jonkoping University)\Web Programming\Librarysystem\BL\obj\Debug\BL.dll
+J:\Users\andrewmmc\Google 雲端硬碟\PolyU (School)\201415 Sem 1 (Jonkoping University)\Web Programming\Librarysystem\BL\obj\Debug\BL.pdb

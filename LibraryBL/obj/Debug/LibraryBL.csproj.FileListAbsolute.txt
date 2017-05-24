@@ -1,0 +1,7 @@
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\obj\Debug\LibraryBL.csprojResolveAssemblyReference.cache
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\bin\Debug\LibraryBL.dll
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\bin\Debug\LibraryBL.pdb
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\obj\Debug\LibraryBL.dll
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\obj\Debug\LibraryBL.pdb
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\bin\Debug\Utilities.dll
+G:\Dokument\Visual Studio 2012\Projects\webNidaaLib\LibraryBL\bin\Debug\Utilities.pdb
